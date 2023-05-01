@@ -5,6 +5,7 @@ body {
     background: url('preloader.svg');
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100vh;
 }
 
 * {
